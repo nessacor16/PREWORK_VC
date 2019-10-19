@@ -1,0 +1,42 @@
+/* css */
+h1 {
+    text-align: center;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.green1 {
+    color: green;
+}
+.BIG {
+    font-size: 33px;
+}
+.tiny {
+    font-size: 9px;
+}
+.centered {
+    text-align: center;
+}
+.bold {
+    font-weight: bold
+}
+.change-font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.combining {
+    font-size: 39px;
+    color: orange;
+    font-weight: 600;
+}
+.green {
+    color: green;
+    font-size: 21;
+    font-weight: bold;
+}
+#styledImage {
+    border: 9px solid orange;
+}
+
